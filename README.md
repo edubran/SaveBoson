@@ -261,10 +261,17 @@ shot_comp_v002.exr
 
 ---
 
+## Author
+
+**Eduardo Brandao**  
+[eduardo@bosonpost.com.br](mailto:eduardo@bosonpost.com.br)
+
+Did this tool help you?
+You can buy me a coffee via PayPal at eduardo@bosonpost.com.br
+or by purchasing my book.
+https://vfxebook-9dqwsk8s.manus.space/
+
+
 ## License
 
 MIT License — free to use, modify, and distribute with attribution.
-
----
-
-*Eduardo Brandao — eduardo@bosonpost.com.br*
