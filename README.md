@@ -16,6 +16,8 @@ Boson Save is a ScriptUI panel for After Effects that centralizes the most repet
 - Apply masks and convert layers to editable text in batch
 - Remember recent save folders across sessions
 
+https://github.com/user-attachments/assets/273e6050-12e4-409e-b06c-f963b860d321
+
 ---
 
 ## Installation
